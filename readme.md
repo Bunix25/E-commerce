@@ -57,4 +57,4 @@ npm start
 
 ![Alt text](images/Screenshot%201.png)
 ![Alt text](images/Screenshot%202.png)
-![Shot-3](![Alt text](images/Screenshot%203.png))
+![Alt text](images/Screenshot%203.png)
