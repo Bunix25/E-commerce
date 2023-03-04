@@ -19,7 +19,7 @@ Category.init(
     }
   },
   
-  // configurations
+  // configuration
   {
     sequelize,
     timestamps: false,
