@@ -56,5 +56,5 @@ npm start
 ## Screen shots
 
 ![Shot-1](![Alt text](images/Screenshot%201.png))
-![Shot-1](![Alt text](images/Screenshot%202.png))
+![Shot-2](![Alt text](images/Screenshot%202.png))
 ![Shot-1](![Alt text](images/Screenshot%203.png))
