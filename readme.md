@@ -5,7 +5,7 @@ In this project I built out the back end for an e-commerce site by modifying sta
 
   * [Installation](#install)
   * [Usage](#usage)
-  * For a video on using the app click [here.](https://)
+  * For a video on using the app click [here.](https://youtu.be/ANd2RmNOmN4)
 
 
 
