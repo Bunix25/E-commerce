@@ -38,7 +38,7 @@ npm run seed
 ```
 to seed your DB. Once your DB is completed run in your terminal:
 ```
-npm start
+npm run start
 ```
 
 
